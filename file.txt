@@ -1,3 +1,5 @@
 The first line in the first project
 Paris is the capital of France
 
+Added another string
+and one more
